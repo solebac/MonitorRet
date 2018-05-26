@@ -1,0 +1,15 @@
+C:\project vs 2013_home\MonitorRet\MonitorRet\bin\Debug\MonitorRet.exe.config
+C:\project vs 2013_home\MonitorRet\MonitorRet\obj\Debug\MonitorRet.csprojResolveAssemblyReference.cache
+C:\project vs 2013_home\MonitorRet\MonitorRet\obj\Debug\MonitorRet.Form1.resources
+C:\project vs 2013_home\MonitorRet\MonitorRet\obj\Debug\MonitorRet.Monitor.resources
+C:\project vs 2013_home\MonitorRet\MonitorRet\obj\Debug\MonitorRet.Properties.Resources.resources
+C:\project vs 2013_home\MonitorRet\MonitorRet\obj\Debug\MonitorRet.csproj.GenerateResource.Cache
+C:\project vs 2013_home\MonitorRet\MonitorRet\obj\Debug\MonitorRet.exe
+C:\project vs 2013_home\MonitorRet\MonitorRet\obj\Debug\MonitorRet.pdb
+C:\project vs 2013_home\MonitorRet\MonitorRet\bin\Debug\MonitorRet.exe.manifest
+C:\project vs 2013_home\MonitorRet\MonitorRet\bin\Debug\MonitorRet.application
+C:\project vs 2013_home\MonitorRet\MonitorRet\bin\Debug\MonitorRet.exe
+C:\project vs 2013_home\MonitorRet\MonitorRet\bin\Debug\MonitorRet.pdb
+C:\project vs 2013_home\MonitorRet\MonitorRet\bin\Debug\MySql.Data.dll
+C:\project vs 2013_home\MonitorRet\MonitorRet\obj\Debug\MonitorRet.exe.manifest
+C:\project vs 2013_home\MonitorRet\MonitorRet\obj\Debug\MonitorRet.application
